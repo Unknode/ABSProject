@@ -1,0 +1,13 @@
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\bin\Debug\netcoreapp3.1\ProjetoUdemy2.exe
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\bin\Debug\netcoreapp3.1\ProjetoUdemy2.deps.json
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\bin\Debug\netcoreapp3.1\ProjetoUdemy2.runtimeconfig.json
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\bin\Debug\netcoreapp3.1\ProjetoUdemy2.runtimeconfig.dev.json
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\bin\Debug\netcoreapp3.1\ProjetoUdemy2.dll
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\bin\Debug\netcoreapp3.1\ProjetoUdemy2.pdb
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.csprojAssemblyReference.cache
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.AssemblyInfoInputs.cache
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.AssemblyInfo.cs
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.csproj.CoreCompileInputs.cache
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.dll
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.pdb
+C:\Users\theza\source\repos\ProjetoUdemy2\ProjetoUdemy2\obj\Debug\netcoreapp3.1\ProjetoUdemy2.genruntimeconfig.cache
