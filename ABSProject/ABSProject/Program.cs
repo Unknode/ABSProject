@@ -9,7 +9,7 @@ namespace ABSProject {
         static void Main(string[] args) {
             string dec;
             string orderType;
-            string type = "";
+            string type;
             Enum flavor;
             Enum cupType;
             string size;
@@ -60,10 +60,10 @@ namespace ABSProject {
                     dec = ABS.AddOrder();
                 }
             } while(dec == "1");
-            
+
             try {
                 ABS.ResumeOrders(drinks);
-            } catch (ResumeException e) {
+            } catch(ResumeException e) {
                 Console.WriteLine(e.Message);
                 Console.WriteLine("");
                 ABS.ResumeOrders(drinks);
